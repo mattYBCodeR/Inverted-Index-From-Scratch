@@ -1,4 +1,4 @@
-# COMP 479 Project 2: Document Clustering with Inverted Index
+# Document Clustering with Inverted Index
 
 ## Project Overview
 
